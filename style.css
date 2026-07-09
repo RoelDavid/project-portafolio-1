@@ -140,6 +140,7 @@ nav {
   width: 100%;
   max-width: 80px;
   transition: all 250ms ease;
+  min-width: 25px;
 }
 
 .language__image:hover {
@@ -303,7 +304,7 @@ footer {
 }
 
 .footer__row {
-  padding: 8% 0;
+  padding: 1% 0;
   display: flex;
   align-items: center;
   justify-content: center;
